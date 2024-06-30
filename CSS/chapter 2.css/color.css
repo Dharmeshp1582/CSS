@@ -1,0 +1,15 @@
+*{
+ margin:0;
+ padding:0;
+}
+.red{
+background-color: rgb(113, 17, 69);
+height: 344px;
+color:aliceblue
+
+}
+
+.green{
+background-color: green;
+color: rgb(144, 144, 181);
+}
